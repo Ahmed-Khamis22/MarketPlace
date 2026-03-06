@@ -65,14 +65,6 @@ GET /api/reviews/:serviceId - Get all reviews for a service.
 ⚙️ Environment Variables
 To run this project, you will need to add the following environment variables to your .env file:
 
-Plaintext
-PORT=3000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRES_IN=1d
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
 👨‍💻 Author
 Ahmed Khamis Senior Computer Science Student @ Cairo University
 
