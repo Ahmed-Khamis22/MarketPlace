@@ -38,5 +38,4 @@ Clients can rate services.
 
 ```bash
 git clone https://github.com/your-username/servicehub-api.git
-cd servicehub-api
 npm install
